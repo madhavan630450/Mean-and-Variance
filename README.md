@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-#  Date :25/10/24
+#  Date :25/10/25
 #  Name : Marimuthu Mathavan
 # Register Number : 212224230153
 # Aim : 
